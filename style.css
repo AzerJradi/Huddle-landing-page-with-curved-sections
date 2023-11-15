@@ -1,0 +1,260 @@
+.logo{
+    width: 12%;
+    margin-left: 50px;
+}
+.tryforfree{
+    width: 6%;
+    height: 5%;
+    color: pink;
+    border-radius: 20Px;
+    border-color: pink;
+    background-color: white;
+    border: pink 2px solid;
+    margin-left: 70%;
+}
+.firsttitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.firstP1{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 27%;
+    margin-top: -1%;
+}
+.firstP2{
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 24.5%;
+    margin-top: -1%;
+}
+.firstP3{
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 31%;
+    margin-top: -1%;
+}
+.getstarted{
+    background-color:fuchsia;
+    border: 2px solid fuchsia;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    border-radius: 20px;
+    height: 40px;
+    width: 20%;
+    margin-left: 35%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+.firstImg{
+    margin-left: 16%;
+    margin-bottom: 5%;
+}
+.second{
+    margin-left: 20%;
+}
+.third{
+    margin-left: 60%;
+    margin-top: -13.6% ;
+}
+.FIRST{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    margin-top: 5px;
+    margin-bottom: -5px;
+}
+.SEC{
+    color: gray;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+.fourth{
+    background-color:lightcyan;
+    margin-top: 10%;
+    height: 550px;
+}
+.fourthImg{
+    width: 30%;
+    margin-left: 60%;
+    margin-top: 5%;
+}
+.titree{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    letter-spacing: 2px;
+    margin-left: 5%;
+    position: relative;
+    bottom: 300px;
+}
+.dess{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-left: 5%;
+    position: relative;
+    bottom: 300px;
+    width: 48%;
+}
+
+
+.fifth{
+    margin-top: 10%;
+    height: 550px;
+}
+.fifthImg{
+    width: 30%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+#titree{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    letter-spacing: 2px;
+    margin-left: 45%;
+    position: relative;
+    bottom: 300px;
+}
+#dess{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin-left: 45%;
+    position: relative;
+    bottom: 300px;
+    width: 48%;
+    line-height: 30px;
+}
+
+
+
+.sixth{
+    background-color:lightcyan;
+    margin-top: 10%;
+    height: 550px;
+}
+.sixthImg{
+    width: 30%;
+    margin-left: 60%;
+    margin-top: 5%;
+}
+.titree{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    letter-spacing: 2px;
+    margin-left: 5%;
+    position: relative;
+    bottom: 300px;
+}
+.desss{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    letter-spacing: 2px;
+    margin-left: 5%;
+    position: relative;
+    bottom: 300px;
+    width: 48%;
+}
+
+
+
+
+
+
+
+
+
+.firsttitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.getstarted{
+    background-color:fuchsia;
+    border: 2px solid fuchsia;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    border-radius: 28px;
+    height: 50px;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+.eight{
+    background-color:teal;
+    height: 600px;
+    padding-left: 5%;
+    color: white;
+}
+#logo{
+    margin-top: 10%;
+    width: 20%;
+
+}
+.lastP{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 25%;
+}
+.lastDiv{
+    font-size: 20px;
+    margin-bottom: 10%;
+}
+.fcb{
+    width: 50px;
+}
+.ig{
+    width: 50px;
+    padding-left: 20px;
+}
+.twi{
+    width: 50px;
+    padding-left: 20px;
+}
+.titllee{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    margin-left: 45%;
+    margin-top: -27%;
+}
+.desss{
+    margin-top: 320px;
+    margin-left: 45%;
+    width: 37%;
+}
+.input{
+    margin-left: 45%;
+    position: relative;
+    bottom: 280px;
+    height: 40px;
+    width: 22%;
+    border: none;
+    border-radius: 8px;
+}
+#btn{
+    background-color:fuchsia;
+    border: 2px solid fuchsia;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    border-radius: 8px;
+    height: 45px;
+    width: 13%;
+    margin-left: 40px;
+    position: relative;
+    bottom: 280px;
+}
+.attribution{
+    margin-left: 40%;
+}
